@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"qtForPython.path.pylupdate": "/home/htn/dev/pytorchdlcv/venv/bin/pylupdate5 -verbose -ts ./\"${fileBasenameNoExtension}.qt.ts\""
+	}
+}

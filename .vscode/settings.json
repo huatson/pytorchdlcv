@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/htn/dev/pytorchdlcv/venv/bin/python3.8",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["--generate-members"],
+    "python.languageServer": "Jedi"
+}
