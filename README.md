@@ -1,4 +1,5 @@
 <!-- TOC -->
+[TOC]
 #Gradient Descend
 An classic optimization method for finding the best estimators from a linear equation. In order to solve $GD$, we need to examinate the next subjects:
 ***
